@@ -1,7 +1,3 @@
-<img width="3400" height="920" alt="image" src="https://github.com/user-attachments/assets/ebb8a75e-bfc5-4134-b6fd-f54fb4782ff1" />
-
-----------------------------
-
 I've been programming for over five years mostly focused on frontend/backend development, cloud services, and AI/ML. Continuously learning popular and interesting technologies to grow as a Software Engineer.
 
 * 🌍  I work from Cheyenne, WY
