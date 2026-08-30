@@ -8,13 +8,13 @@ I've been programming for over five years mostly focused on frontend/backend dev
   * AWS Certified Cloud Practitioner (Sep 2025 - 2028)
   * PCAP - Certified Associate Python Programmer (Aug 2025)
 * Education:
-  * Master of Science, Software Engineering (Aug 2026)
-  * Bachelor of Science, Computer Science 
+  * Master of Science, Software Engineering - *Summa Cum Laude*
+  * Bachelor of Science, Computer Science - *Magna Cum Laude*
   * Associate of Arts, Mathematics with Physics Emphasis
 * Professional Development:
-  * Level Up In Tech - Cloud DevOps Engineer program (attending)
+  * Level Up In Tech - Cloud DevOps Engineer program
   * Galvanize, Inc. - Level-Up (Advanced Software Engineering Immersive Program)
-  * Cybersecurity Workforce Certification Training (CWCT) - Artificial Intelligence path
+  * Cybersecurity Workforce Certification Training (CWCT) - Artificial Intelligence Path
 
 <a href="https://www.github.com/JCarter-coder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JCarter-coder?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" /></a>
