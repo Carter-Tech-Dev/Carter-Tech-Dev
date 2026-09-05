@@ -1,8 +1,7 @@
 I've been programming for over five years mostly focused on frontend/backend development, cloud services, and AI/ML. Continuously learning popular and interesting technologies to grow as a Software Engineer.
 
 * 🌍  I work from Cheyenne, WY
-* ✉️  You can contact me at [jessetcarter+github@gmail.com](mailto:jessetcarter+github@gmail.com)
-* ⚡  I enjoy learning just about anything! When I'm not on ZTM or PluralSight, I'm likely doing activities with my kids. I also enjoy reading, practicing violin/piano, and playing video games.
+* ⚡  I enjoy learning just about anything! When I'm not coding, I'm likely doing activities with my kids. I also enjoy reading, playing violin/piano, watching movies, and video games.
 * Certifications:
   * CompTIA Security+ (Apr 2026 - 2029)
   * AWS Certified Cloud Practitioner (Sep 2025 - 2028)
