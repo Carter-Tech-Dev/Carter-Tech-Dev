@@ -15,8 +15,8 @@ I've been programming for over five years mostly focused on frontend/backend dev
   * Galvanize, Inc. - Level-Up (Advanced Software Engineering Immersive Program)
   * Cybersecurity Workforce Certification Training (CWCT) - Artificial Intelligence Path
 
-<a href="https://www.github.com/JCarter-coder" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JCarter-coder?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" /></a>
+<a href="https://www.github.com/Carter-Tech-Dev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Carter-Tech-Dev?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" /></a>
 
 ### Skills
 
