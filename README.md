@@ -1,22 +1,24 @@
-I've been programming for over five years mostly focused on frontend/backend development, cloud services, and AI/ML. Continuously learning popular and interesting technologies to grow as a Software Engineer.
+Hi 👋 My name is Jesse
+==============================================================================================================================
 
-* 🌍  I work from Cheyenne, WY
-* ⚡  I enjoy learning just about anything! When I'm not coding, I'm likely doing activities with my kids. I also enjoy reading, playing violin/piano, watching movies, and video games.
-* Certifications:
+* 🌍  I work remotely from Wyoming
+* 💻  See my portfolio at [Carter Tech Dev](http://cartertech.dev)
+* 👥  I've enjoyed programming for over five years and seek new opportunities to develop as a software engineer. Specifically, areas in frontend/backend development, cloud services, and AI/ML supporting endeavors in:
+  *  military 🚀
+  *  space 🛰️
+  *  science & research ⚛️
+  *  cyber 🔐
+  *  medicine 🧬
+
+* 🎯  Certifications:
   * CompTIA Security+ (Apr 2026 - 2029)
   * AWS Certified Cloud Practitioner (Sep 2025 - 2028)
   * PCAP - Certified Associate Python Programmer (Aug 2025)
-* Education:
+* 📚  Education:
   * Master of Science, Software Engineering - *Summa Cum Laude*
   * Bachelor of Science, Computer Science - *Magna Cum Laude*
   * Associate of Arts, Mathematics with Physics Emphasis
-* Professional Development:
-  * Level Up In Tech - Cloud DevOps Engineer program
-  * Galvanize, Inc. - Level-Up (Advanced Software Engineering Immersive Program)
-  * Cybersecurity Workforce Certification Training (CWCT) - Artificial Intelligence Path
 
-<a href="https://www.github.com/Carter-Tech-Dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Carter-Tech-Dev?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" /></a>
 
 ### Skills
 
@@ -51,10 +53,11 @@ src="https://img.shields.io/github/followers/Carter-Tech-Dev?logo=github&style=f
 </p>
 
 <p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="80" height="80" alt="NodeJS" /></picture></a>
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="80" height="80" alt="Express" /></picture></a>
- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="80" height="80" alt="PostgreSQL" /></picture></a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="80" height="80" alt="MongoDB" /></picture></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="Node" width="80" height="80" alt="NodeJS" /></picture></a>
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" title="Express" width="80" height="80" alt="Express" /></picture></a>
+ <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" title="PostgreSQL" width="80" height="80" alt="PostgreSQL" /></picture></a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" width="80" height="80" alt="MongoDB" /></picture></a>
+ <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" title="Fast API" width="80" height="80" alt="Fast API" /></picture></a>
 </p>
 
 
