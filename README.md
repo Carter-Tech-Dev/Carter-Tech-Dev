@@ -2,7 +2,7 @@ Hi 👋 My name is Jesse
 ==============================================================================================================================
 
 * 🌍  I work remotely from Wyoming
-* 💻  See my portfolio at [Carter Tech Dev](http://cartertech.dev)
+* 💻  See my portfolio at [Carter Tech Dev](https://cartertech.dev)
 * 👥  I've enjoyed programming for over five years and seek new opportunities to develop as a software engineer. Specifically, areas in frontend/backend development, cloud services, and AI/ML supporting endeavors in:
   *  military 🚀
   *  space 🛰️
